@@ -20,7 +20,7 @@ All functions have been verified in real business, covering common needs such as
 - Continuous Updates: Constantly supplemented and optimized with new needs encountered in work
 
 ## 使用方法 | Usage
-- 克隆仓库到本地：git clone https://github.com/your-username/SnippetForCode.git（替换为你的仓库地址）
+- 克隆仓库到本地：[git clone https://github.com/your-username/SnippetForCode.git](https://github.com/5JingKai/SnippetForCode.git)
 - - 根据所需功能，进入对应语言和分类目录
 - 复制目标函数代码，直接集成到你的项目中
 - 按函数注释说明传入参数，即可快速使用
